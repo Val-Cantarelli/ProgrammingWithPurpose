@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdAudio;
+
 public class AudioCollage {
 
     public static double[] amplify(double[] a, double alpha) {
@@ -18,9 +20,7 @@ public class AudioCollage {
 
     public static double[] merge(double[] a, double[] b) {
         double[] newArray = new double[a.length + b.length];
-        for (int k = 0; k < a.length; k++) {
-            newArray[k] = a[k];
-        }
+        System.arraycopy(a, 0, newArray, 0, a.length);
         int i = 0;
         for (int j = a.length; j < newArray.length; j++, i++) {
             newArray[j] = b[i];

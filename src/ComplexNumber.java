@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdOut;
+
 public class ComplexNumber {
     private final double real;
     private final double imag;

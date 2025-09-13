@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdIn;
+
 public class ShannonEntropy {
     public static void main(String[] args) {
         int[] input = StdIn.readAllInts();

@@ -1,4 +1,5 @@
-import java.awt.*;
+import edu.princeton.cs.algs4.StdDraw;
+import java.awt.Color;
 
 public class AlbersSquares {
     public static void main(String[] args) {

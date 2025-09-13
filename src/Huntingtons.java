@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.In;
+
 public class Huntingtons {
 
     public static int maxRepeats(String dna) {

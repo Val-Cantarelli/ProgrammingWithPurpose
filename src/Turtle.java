@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdDraw;
+
 public class Turtle {
     private double x, y; // position
     private double angle; // orientation

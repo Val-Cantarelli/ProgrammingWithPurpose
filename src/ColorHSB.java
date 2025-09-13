@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdIn;
+
 public class ColorHSB {
     private final int h;
     private final int s;

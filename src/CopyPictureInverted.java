@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.Picture;
+
 public class CopyPictureInverted {
     public static void main(String[] args) {
         // Não podemos apenas tratar a imagem como fazemos de colorido para preto e branco.

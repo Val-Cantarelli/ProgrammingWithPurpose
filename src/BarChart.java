@@ -1,3 +1,4 @@
+import edu.princeton.cs.algs4.StdDraw;
 import java.awt.Color;
 import java.awt.Font;
 import java.util.ArrayList;
@@ -22,7 +23,7 @@ public class BarChart {
     private final String xAxisLabel;          // x-axis label
     private final String dataSource;          // data source
     private String caption;                   // caption
-    private TreeMap<String, Color> colorOf;   // map category to color
+    private final TreeMap<String, Color> colorOf;   // map category to color
     private ArrayList<String> names;          // list of bar names
     private ArrayList<Integer> values;        // list of bar values
     private ArrayList<Color> colors;          // list of bar colors

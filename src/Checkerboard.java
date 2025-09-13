@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdDraw;
+
 public class Checkerboard {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
@@ -15,5 +17,3 @@ public class Checkerboard {
         }
     }
 }
-
-

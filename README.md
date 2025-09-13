@@ -38,11 +38,11 @@ Below are the details of each module submission, including the Java classes subm
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- CMYKtoRGB.java
-- GreatCircle.java
-- HelloGoodbye.java
-- HelloWorld.java
-- RightTriangle.java
+- [CMYKtoRGB.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/CMYKtoRGB.java)
+- [GreatCircle.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/GreatCircle.java)
+- [HelloGoodbye.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/HelloGoodbye.java)
+- [HelloWorld.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/HelloWorld.java)
+- [RightTriangle.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/RightTriangle.java)
 
 Feedback/result: [See graderFeedback/module01.pdf](graderFeedback/module01.pdf)
 
@@ -50,10 +50,10 @@ Feedback/result: [See graderFeedback/module01.pdf](graderFeedback/module01.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- BandMatrix.java
-- GeneralizedHarmonic.java
-- RandomWalker.java
-- RandomWalkers.java
+- [BandMatrix.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/BandMatrix.java)
+- [GeneralizedHarmonic.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/GeneralizedHarmonic.java)
+- [RandomWalker.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/RandomWalker.java)
+- [RandomWalkers.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/RandomWalkers.java)
 
 Feedback/result: [See graderFeedback/module02.pdf](graderFeedback/module02.pdf)
 
@@ -61,10 +61,10 @@ Feedback/result: [See graderFeedback/module02.pdf](graderFeedback/module02.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- Birthday.java
-- DiscreteDistribution.java
-- Minesweeper.java
-- ThueMorse.java
+- [Birthday.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Birthday.java)
+- [DiscreteDistribution.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/DiscreteDistribution.java)
+- [Minesweeper.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Minesweeper.java)
+- [ThueMorse.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/ThueMorse.java)
 
 Feedback/result: [See graderFeedback/module03.pdf](graderFeedback/module03.pdf)
 
@@ -72,9 +72,9 @@ Feedback/result: [See graderFeedback/module03.pdf](graderFeedback/module03.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- Checkerboard.java
-- ShannonEntropy.java
-- WorldMap.java
+- [Checkerboard.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Checkerboard.java)
+- [ShannonEntropy.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/ShannonEntropy.java)
+- [WorldMap.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/WorldMap.java)
 
 Feedback/result: [See graderFeedback/module04.pdf](graderFeedback/module04.pdf)
 
@@ -82,9 +82,9 @@ Feedback/result: [See graderFeedback/module04.pdf](graderFeedback/module04.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- ActivationFunction.java
-- AudioCollage.java
-- Divisors.java
+- [ActivationFunction.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/ActivationFunction.java)
+- [AudioCollage.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/AudioCollage.java)
+- [Divisors.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Divisors.java)
 
 Feedback/result: [See graderFeedback/module05.pdf](graderFeedback/module05.pdf)
 
@@ -92,10 +92,10 @@ Feedback/result: [See graderFeedback/module05.pdf](graderFeedback/module05.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- RecursiveSquares.java
-- RevesPuzzle.java
-- TrinomialBrute.java
-- TrinomialDP.java
+- [RecursiveSquares.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/RecursiveSquares.java)
+- [RevesPuzzle.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/RevesPuzzle.java)
+- [TrinomialBrute.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/TrinomialBrute.java)
+- [TrinomialDP.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/TrinomialDP.java)
 
 Feedback/result: [See graderFeedback/module06.pdf](graderFeedback/module06.pdf)
 
@@ -103,9 +103,9 @@ Feedback/result: [See graderFeedback/module06.pdf](graderFeedback/module06.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- Inversions.java
-- MaximumSquareSubmatrix.java
-- Ramanujan.java
+- [Inversions.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Inversions.java)
+- [MaximumSquareSubmatrix.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/MaximumSquareSubmatrix.java)
+- [Ramanujan.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Ramanujan.java)
 
 Feedback/result: [See graderFeedback/module07.pdf](graderFeedback/module07.pdf)
 
@@ -113,8 +113,8 @@ Feedback/result: [See graderFeedback/module07.pdf](graderFeedback/module07.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- Huntingtons.java
-- KernelFilter.java
+- [Huntingtons.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Huntingtons.java)
+- [KernelFilter.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/KernelFilter.java)
 
 Feedback/result: [See graderFeedback/module08.pdf](graderFeedback/module08.pdf)
 
@@ -122,8 +122,8 @@ Feedback/result: [See graderFeedback/module08.pdf](graderFeedback/module08.pdf)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- Clock.java
-- ColorHSB.java
+- [Clock.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Clock.java)
+- [ColorHSB.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/ColorHSB.java)
 
 Feedback/result: [See graderFeedback/module09.md](graderFeedback/module09.md)
 
@@ -131,7 +131,7 @@ Feedback/result: [See graderFeedback/module09.md](graderFeedback/module09.md)
 **ASSESSMENT DETAILS**
 The following files were submitted:
 ----------------------------------
-- Bar.java
-- BarChartRacer.java
+- [Bar.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/Bar.java)
+- [BarChartRacer.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/BarChartRacer.java)
 
 Feedback/result: [See graderFeedback/module10.pdf](graderFeedback/module10.pdf)

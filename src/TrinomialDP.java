@@ -1,3 +1,5 @@
+
+
 public class TrinomialDP {
     // Inicializa matrix
     public static long trinomial(int n, int k) {

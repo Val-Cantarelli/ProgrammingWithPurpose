@@ -1,9 +1,9 @@
+import edu.princeton.cs.algs4.StdIn;
+
 public class MaximumSquareSubmatrix {
     private static int[][] matrixCumulative(int[][] a) {
         int[][] b = new int[a.length][a.length];
-        for (int j = 0; j < a.length; j++) {
-            b[0][j] = a[0][j];
-        }
+        System.arraycopy(a[0], 0, b[0], 0, a.length);
         for (int i = 1; i < a.length; i++) {
             for (int j = 0; j < a.length; j++) {
                 if (a[i][j] == 0) {

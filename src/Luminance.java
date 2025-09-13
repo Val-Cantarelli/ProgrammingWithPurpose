@@ -1,4 +1,4 @@
-import java.awt.*;
+import java.awt.Color;
 
 // Luminancia é o brilho de uma imagem. Os olhos humanos são mais sensíveis ao brilho do que à cor. Por isso,
 // quando ajustamos a luminância isso ajuda a melhorar a visualizaćão

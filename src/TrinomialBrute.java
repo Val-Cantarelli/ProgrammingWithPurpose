@@ -1,3 +1,5 @@
+
+
 public class TrinomialBrute {
 
     public static long trinomial(int n, int k) {

@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdDraw;
+
 public class RecursiveSquares {
     public static void drawSquare(double x, double y, double length) {
         StdDraw.setPenColor(StdDraw.LIGHT_GRAY);
