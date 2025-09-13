@@ -12,6 +12,8 @@ This repository contains solutions and code developed as part of the "Programmin
 - Object-oriented programming
 - Basic algorithms and applications
 
+>This course was completed through the Coursera platform. Please note that no certificate is issued for this course, as Princeton University's policies do not provide certification for this offering.
+
 The course emphasizes writing clear, efficient, and correct code, and encourages students to develop strong analytical and logical reasoning skills.
 
 ## Repository Structure
@@ -28,17 +30,34 @@ To run the code examples and assignments, you will need:
 
 Compile and run Java files from the `src/` directory as needed.
 
+## Required Library: algs4
+This project uses the [algs4](https://algs4.cs.princeton.edu/code/) library from Princeton University, which provides essential classes for input/output, drawing, and more (such as `StdIn`, `StdOut`, `StdDraw`, `Picture`, etc.).
+
+The `algs4.jar` file is already included in this repository. If you need to re-download it, you can get the latest version from the [official Princeton algs4 download page](https://algs4.cs.princeton.edu/code/algs4.jar).
+
+### How to Compile and Run with algs4.jar
+To compile and run any Java file that depends on algs4, use the following commands from the project root:
+
+```
+javac -cp algs4.jar src/YourClass.java
+java -cp algs4.jar:src YourClass
+```
+
+On Windows, replace the colon (`:`) with a semicolon (`;`) in the classpath.
+
+Example:
+```
+javac -cp algs4.jar src/HelloWorld.java
+java -cp algs4.jar:src HelloWorld
+```
+
 ## Credits
 This repository is inspired by the course materials from Princeton University and the book "Computer Science: An Interdisciplinary Approach" by Robert Sedgewick and Kevin Wayne.
 
 ## Submission Details
 Below are the details of each module submission, including the Java classes submitted and the corresponding feedback file. For exact assessment results, refer to the respective PDF in the `graderFeedback/` directory.
 
-### Module 01
-**ASSESSMENT DETAILS**
-The following files were submitted:
-----------------------------------
-- [CMYKtoRGB.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/CMYKtoRGB.java)
+
 - [GreatCircle.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/GreatCircle.java)
 - [HelloGoodbye.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/HelloGoodbye.java)
 - [HelloWorld.java](https://github.com/Val-Cantarelli/ProgrammingWithPurpose/blob/main/src/HelloWorld.java)
