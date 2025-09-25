@@ -25,8 +25,8 @@ All code in this repository was tested and graded by an external automated platf
 
 ## Getting Started
 To run the code examples and assignments, you will need:
-- Java Development Kit (JDK) 8 or higher
-- A Java IDE or command-line tools
+- Java Development Kit (JDK);
+- A Java IDE.
 
 Compile and run Java files from the `src/` directory as needed.
 
@@ -43,13 +43,6 @@ javac -cp algs4.jar src/YourClass.java
 java -cp algs4.jar:src YourClass
 ```
 
-On Windows, replace the colon (`:`) with a semicolon (`;`) in the classpath.
-
-Example:
-```
-javac -cp algs4.jar src/HelloWorld.java
-java -cp algs4.jar:src HelloWorld
-```
 
 ## Credits
 This repository is inspired by the course materials from Princeton University and the book "Computer Science: An Interdisciplinary Approach" by Robert Sedgewick and Kevin Wayne.
